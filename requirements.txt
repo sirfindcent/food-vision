@@ -1,0 +1,4 @@
+tensorflow==2.13.0
+tensorflow-datasets==4.9.3
+numpy==1.23.5
+streamlit==1.27
