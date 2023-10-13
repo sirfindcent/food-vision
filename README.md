@@ -5,6 +5,7 @@
 
 <div align="center" id="top">
   <img src="images/food-vision-demo.gif" height="20%" alt="Food Vision" />
+  
   <a href="https://huggingface.co/spaces/sirfindcent/food-vision">Demo</a>
 
   <a href="https://github.com/sirfindcent/food-vision/stargazers" target="_blank">
